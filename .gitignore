@@ -95,3 +95,5 @@ celerybeat-schedule
 .mypy_cache/
 .pyre/
 .env*
+
+.idea/
